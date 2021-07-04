@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import cloudscraper
-from pandas.core.frame import DataFrame
 import time 
 import os
 
