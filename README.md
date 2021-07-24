@@ -19,5 +19,3 @@ Data Retrieved
 * Related Series Information
   * Related Series
   * Recommended Series
-
-Updated on July 3, 2021
